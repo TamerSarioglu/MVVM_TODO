@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDo_WithMVVM_Room">
-        <activity android:name="com.tamersarioglu.todo_withmvvm_room.MainActivity"
+        <activity android:name="com.tamersarioglu.todo_withmvvm_room.ui.MainActivity"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

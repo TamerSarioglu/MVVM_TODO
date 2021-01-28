@@ -1,6 +1,7 @@
-package com.tamersarioglu.todo_withmvvm_room
+package com.tamersarioglu.todo_withmvvm_room.ui
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tamersarioglu.todo_withmvvm_room.R
 
 class MainActivity : AppCompatActivity() {
 
